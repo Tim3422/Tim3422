@@ -1,0 +1,9 @@
+Public class Calculator{
+   public static void main(String[args]){
+      Int num1=10;
+      Int num1=32;
+      Int sum=0;
+
+
+}
+}
